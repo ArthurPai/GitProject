@@ -7,3 +7,6 @@ description
 ## submit step
 
 ## build setting
+
+1. create
+2. save
